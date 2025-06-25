@@ -71,6 +71,8 @@ O repositório tem três arquivos de códigos principais: efeito_hall_reduzido_f
   - **Perna direita** → Conecte à entrada **A0** (analógica)
 - Conecte o Arduino ao computador pela **porta COM3** e carregue o código `efeito_hall_reduzido_final.ino` usando a Arduino IDE.
 
+![Ciucuito](./CIRCUITO.png)
+
 **2. Modo Experimental ou Teórico (VSCode)**  - codigo_reduzido_final.py
 
   - Execute o arquivo `codigo_reduzido_final.py` no VSCode.  
