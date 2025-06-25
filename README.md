@@ -171,7 +171,7 @@ Acesso em: 11 jun. 2025.
     <td align="center">
       <a href="#" title="Prof. Leandro N. Lemos">
         <img src="https://avatars.githubusercontent.com/u/1894434?v=4" width="100px;" alt="Foto do Leandro do Github"/><br>
-          <a href="https://github.com/Velky2"><b>Prof. Dr. Leandro N. Lemos<b></a>
+          <a href="https://github.com/llemos"><b>Prof. Dr. Leandro N. Lemos<b></a>
       </a>
     </td>
   </tr>
